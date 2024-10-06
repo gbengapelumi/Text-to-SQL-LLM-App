@@ -50,6 +50,7 @@ To run the application, use the following command:
 ```bash
 streamlit run app.py
 ```
+livelink: https://oluwagbenga-text-to-llm.streamlit.app/
 
 The app will open in your browser. You can input a natural language question and retrieve SQL results from the SQLite database.
 
