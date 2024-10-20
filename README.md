@@ -1,4 +1,3 @@
-
 # End-to-End Text to SQL LLM
 
 This is a Streamlit-based application that converts natural language questions into SQL queries using Google's Gemini LLM. The application processes user queries to interact with a local SQLite database and retrieve relevant data based on the question asked.
